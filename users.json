@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "name": "Golang",
+      "type": "Programming Language",
+      "date": 2009,
+      "social": {
+        "twitter": "https://twitter.com/golang",
+        "website": "https://golang.org/"
+      }
+    },
+    {
+      "name": "JavaScript",
+      "type": "Programming Language",
+      "date": 1995,
+      "social": {
+        "twitter": "https://twitter.com/javascript",
+        "website": "https://www.javascript.com/"
+
+      }
+    },
+    {
+      "name": "Rust",
+      "type": "Programming Language",
+      "date": 2015,
+      "social": {
+        "twitter": "https://twitter.com/rustlang",
+        "website": "https://www.rust-lang.org/"
+      }
+    },
+    {
+      "name": "Ruby",
+      "type": "Programming Language",
+      "date": 1995,
+      "social": {
+        "twitter": "https://twitter.com/rubylangorg",
+        "website": "https://www.ruby-lang.org/en/"
+      }
+    },
+    {
+      "name": "Dart",
+      "type": "Programming Language",
+      "date": 2013,
+      "social": {
+        "twitter": "https://twitter.com/dart_lang",
+        "website": "https://dart.dev/"
+      }
+    },
+    {
+      "name": "PHP",
+      "type": "Programming Language",
+      "date": 1995,
+      "social": {
+        "twitter": "https://twitter.com/official_php?lang",
+        "website": "https://www.php.net/"
+      }
+    },
+    {
+      "name": "Kotlin",
+      "type": "Programming Language",
+      "date": 2011,
+      "social": {
+        "twitter": "https://twitter.com/kotlin",
+        "website": "https://kotlinlang.org/"
+      }
+    },
+    {
+      "name": "Java",
+      "type": "Programming Language",
+      "date": 1996,
+      "social": {
+        "twitter": "https://twitter.com/java",
+        "website": "https://www.java.com/en/"
+      }
+    }
+
+  ]
+
+}
