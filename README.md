@@ -1,1 +1,1 @@
-# Go-Json
+# Go JSON example
